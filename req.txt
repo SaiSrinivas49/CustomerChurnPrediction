@@ -7,5 +7,5 @@ seaborn
 scikit-learn
 nltk
 gensim
-tensorflow
+tensorflow==2.16.1
 tensorboard
